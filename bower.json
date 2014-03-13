@@ -1,0 +1,11 @@
+{
+	"name": "tacklebox-child",
+	"version": "0.0.1",
+	"main": "assets/css/main.css",
+	"ignore": [
+		"**/*.md"
+	],
+	"dependencies": {
+		"grout": "*"
+	}
+}
